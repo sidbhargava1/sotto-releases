@@ -1,8 +1,18 @@
 # Sotto releases
 
 Signed builds of Sotto, a macOS dictation app (hold a hotkey, speak, release; speech-to-text and
-cleanup run on the Mac). The source is private; this repo holds only the DMGs (under Releases) and
-`appcast.xml`, the feed installed copies check once a day.
+cleanup run on the Mac). This repo holds only the DMGs (under Releases) and `appcast.xml`, the
+feed installed copies check once a day.
+
+## Source
+
+Sotto's engine is open source: https://github.com/sidbhargava1/sotto-engine (Apache-2.0). It is
+the whole dictation pipeline as a Swift package: microphone capture, on-device speech-to-text
+(Parakeet through FluidAudio, or Apple's SpeechAnalyzer), local cleanup with Qwen3-4B through
+llama.cpp, and text injection at the caret. Build it with Xcode 26 on macOS 15 or later:
+`git clone` it and run `swift build` and `swift test`, or add it to your own package with
+`.package(url: "https://github.com/sidbhargava1/sotto-engine", .upToNextMinor(from: "0.1.0"))`. The app around
+it (menu bar, onboarding, history and Insights) stays private.
 
 ## Install (macOS 15 or later, Apple silicon)
 
