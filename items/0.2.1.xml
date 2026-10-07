@@ -1,0 +1,18 @@
+    <item>
+      <title>Sotto 0.2.1</title>
+      <pubDate>Wed, 07 Oct 2026 05:21:45 +0000</pubDate>
+      <sparkle:version>0.2.1</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Fixed a crash when dictating into one of Sotto's own windows, such as the Try it step in setup.</li>
+<li>A Bluetooth mic that keeps dropping its connection no longer makes Sotto restart the microphone over and over: after a few tries it switches to another mic, such as your Mac's built-in one, and Settings says so. Choose it in Settings, reconnect it, or relaunch Sotto to try it again.</li>
+<li>When the microphone sends no audio at all, the capsule now says "No audio from" and names the device, instead of "Didn't catch that".</li>
+<li>The Clean Up Text switch has left the menu: turn cleanup off in Settings → Dictation by choosing None. If you had it off, that's already set.</li>
+<li>The menu is tidier: Insights, Personal Dictionary and Settings have icons, and menu items no longer end in "…".</li>
+</ul>
+<p>sha256 681beee68ed4e3fb6c096e80b9d286d004a9ac18fbbac2d824bf10967aebfebe</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/sotto-releases/releases/download/v0.2.1/Sotto-0.2.1.dmg" length="30973287" type="application/octet-stream" sparkle:edSignature="JHmdrtPvnOG9mhgf52jp470HO+vVaFXsBi7OQM9W0QUY+HO96ZYZ2PyMBQDbsAfvCAjL7LwYkPrtBy5gRDpsDQ=="/>
+    </item>
