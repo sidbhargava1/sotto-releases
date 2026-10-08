@@ -1,0 +1,14 @@
+    <item>
+      <title>Sotto 0.2.4</title>
+      <pubDate>Thu, 08 Oct 2026 22:46:49 +0000</pubDate>
+      <sparkle:version>0.2.4</sparkle:version>
+      <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Dictating right after you edit your dictionary no longer comes out uncleaned.</li>
+</ul>
+<p>sha256 9c0783e47ec18dd80fbe1093af37b53c1d082f7ffa1db2d37737b3af6c531628</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/sotto-releases/releases/download/v0.2.4/Sotto-0.2.4.dmg" length="31982066" type="application/octet-stream" sparkle:edSignature="QSac86nOadxDif4BN6XFvK4xXSP2hPXHpVARiE7327Pn/ibVmQ1NMur4Zw0aR706tbOEf/axM1s40tNkF7OJAw=="/>
+    </item>
