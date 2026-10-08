@@ -5,6 +5,25 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/sotto-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Sotto 0.2.3</title>
+      <pubDate>Thu, 08 Oct 2026 21:32:08 +0000</pubDate>
+      <sparkle:version>0.2.3</sparkle:version>
+      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>New Settings › Appearance › Show live words switch: turn it off and the speech bubble never appears, and Sotto doesn't work out live words at all.</li>
+<li>The figure now wakes up: the first dictation after Pause starts with its eyes closed and opens them as it settles.</li>
+<li>The figure has a few expressions now: it blinks at a pause, glances up while cleaning up, squints when text lands, and looks puzzled or shrugs when something goes wrong, and looks away when you say "scratch that". Choose Appearance › Classic to turn it off.</li>
+<li>You can compile a voice profile after 50 dictations; it's marked early until you reach 200.</li>
+<li>You can see your voice profile in Insights: a summary, your sentence lengths and punctuation, and the samples in the file, with Copy and Compile Again in the toolbar.</li>
+<li>Your voice profile now lives in Sotto's own folder (~/Library/Application Support/Sotto) instead of Documents, so iCloud Drive no longer syncs it. An existing profile is moved over once; use Copy to paste it, or Reveal in Finder to find the file.</li>
+</ul>
+<p>sha256 89e1e61b67c400fa7bb7bf410328f9f23f42d4c353f30cf6c45cebffc6888b91</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/sotto-releases/releases/download/v0.2.3/Sotto-0.2.3.dmg" length="31940369" type="application/octet-stream" sparkle:edSignature="OC962xIpEBn+RfkHntEHYUnZ5iXIs7gGmfM+aEes6ZyPBHhs9M3EADqvSP2dG5pyLekDq5DGc39fKn4VXf/TBA=="/>
+    </item>
+    <item>
       <title>Sotto 0.2.2</title>
       <pubDate>Thu, 08 Oct 2026 18:37:21 +0000</pubDate>
       <sparkle:version>0.2.2</sparkle:version>
