@@ -5,6 +5,27 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/sotto-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Sotto 0.2.2</title>
+      <pubDate>Thu, 08 Oct 2026 18:37:21 +0000</pubDate>
+      <sparkle:version>0.2.2</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>The indicator (capsule, head, shoulders and speech bubble) now follows the system appearance instead of taking its light or dark look from what's behind it.</li>
+<li>Sotto's dictation engine is now open source: <a href="https://github.com/sidbhargava1/sotto-engine">https://github.com/sidbhargava1/sotto-engine</a></li>
+<li>The personal dictionary has its own window: open Personal Dictionary from the menu or Settings → Dictation to see every term, search, add, edit and delete, with Undo. Adding a term that's already there merges what Sotto hears for it.</li>
+<li>The dictionary is still the same text file, and anything you wrote in it by hand, including comments, is kept. Open in Editor at the bottom of the list opens it.</li>
+<li>Dictionary rows show a pencil and a trash can when you point at them or select them, to edit or delete a term.</li>
+<li>Adding or editing a dictionary term now has Save and Cancel buttons; Return and Esc still work.</li>
+<li>The speech bubble now floats a little higher above the head, so your words don't crowd it.</li>
+<li>If the speech model hasn't finished downloading, the capsule now says "Speech model not downloaded" instead of a generic error.</li>
+</ul>
+<p>sha256 cf5915617632a27f1a9b378b6f9bc7bd41753075b9342d9e08d659638e4363fa</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/sotto-releases/releases/download/v0.2.2/Sotto-0.2.2.dmg" length="31541283" type="application/octet-stream" sparkle:edSignature="MbXXVH9fizAARqSFdoXU32ycgcZNDQtYAot0TWYJ5emULXn/7Biar5YhI5JUISPk48KI/G42Uvf+k3KOWyNFCg=="/>
+    </item>
+    <item>
       <title>Sotto 0.2.1</title>
       <pubDate>Wed, 07 Oct 2026 05:21:45 +0000</pubDate>
       <sparkle:version>0.2.1</sparkle:version>
