@@ -5,6 +5,20 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/sotto-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Sotto 0.2.7</title>
+      <pubDate>Sun, 11 Oct 2026 04:27:41 +0000</pubDate>
+      <sparkle:version>0.2.7</sparkle:version>
+      <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Long dictations land faster, up to about twice as fast for a paragraph.</li>
+</ul>
+<p>sha256 9581fae48303b36579b22b76f484e2c86ef56caaf7c2e7628652668ae1e0b3da</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/sotto-releases/releases/download/v0.2.7/Sotto-0.2.7.dmg" length="33373405" type="application/octet-stream" sparkle:edSignature="UzqmQWRqs/BcoUbuCb5+Z+08DzjOJ3IF4+seKNxtuJ1R9sulKSpeKkQ5DlE/OwhdWFirby5zbDBaOIIQrISMCg=="/>
+    </item>
+    <item>
       <title>Sotto 0.2.6</title>
       <pubDate>Sun, 11 Oct 2026 03:28:11 +0000</pubDate>
       <sparkle:version>0.2.6</sparkle:version>
