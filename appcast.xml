@@ -5,6 +5,20 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/sotto-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Sotto 0.2.6</title>
+      <pubDate>Sun, 11 Oct 2026 03:28:11 +0000</pubDate>
+      <sparkle:version>0.2.6</sparkle:version>
+      <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Your voice profile now shows a sentence length histogram; compile again to see it.</li>
+</ul>
+<p>sha256 555a3bb612e5161bc75a267e36469ecbced20e87449082e96431cecc24f1fe17</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/sotto-releases/releases/download/v0.2.6/Sotto-0.2.6.dmg" length="33366210" type="application/octet-stream" sparkle:edSignature="slf4kzkYP+8IJStSLueiUgz0/GDSaBGW293YWP31Nfai5sCfCFM2BI7NIukx0+PlShGYOW/rk9aOXRwwYMltBg=="/>
+    </item>
+    <item>
       <title>Sotto 0.2.5</title>
       <pubDate>Sun, 11 Oct 2026 02:56:16 +0000</pubDate>
       <sparkle:version>0.2.5</sparkle:version>
