@@ -5,6 +5,22 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/sotto-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Sotto 0.2.5</title>
+      <pubDate>Sun, 11 Oct 2026 02:56:16 +0000</pubDate>
+      <sparkle:version>0.2.5</sparkle:version>
+      <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Updated the on-device language model runtime (llama.cpp); no change to your text.</li>
+<li>Compiling your voice profile is now one click: no quote review, no confirmation. Delete a dictation from History to keep it out.</li>
+<li>The voice profile now keeps only what you control by speaking: punctuation figures like exclamation marks, dashes and emoji are gone.</li>
+</ul>
+<p>sha256 d4ec366e6bbc768f25f57444206b8a784c529ac834bfb00f54651072761332cd</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/sotto-releases/releases/download/v0.2.5/Sotto-0.2.5.dmg" length="33311821" type="application/octet-stream" sparkle:edSignature="bGShuxrKUfe3oVbgZ5hDreOC4GClepm51RN9FzSLC0A3NlugmnIKt2U5nfmSfXM7OzlSYLpTobBZ4Gp+jD9EDw=="/>
+    </item>
+    <item>
       <title>Sotto 0.2.4</title>
       <pubDate>Thu, 08 Oct 2026 22:46:49 +0000</pubDate>
       <sparkle:version>0.2.4</sparkle:version>
