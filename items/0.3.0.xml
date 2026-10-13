@@ -1,0 +1,16 @@
+    <item>
+      <title>Sotto 0.3.0</title>
+      <pubDate>Tue, 13 Oct 2026 23:21:28 +0000</pubDate>
+      <sparkle:version>0.3.0</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>A new indicator: a glass orb above a slim pill. It appears, listens, tidies and drops back into the pill. With Reduce Motion on, it just fades.</li>
+<li>Insights keeps its counts when History is off or cleared; History controls only your words. Reset Insights… in Settings › History starts the counts over.</li>
+<li>Sotto checks for updates every hour and when your Mac wakes. The menu bar icon shows a mark when one is ready, and the menu shows your version with Update to the new version underneath. Check automatically in Settings › About turns this off.</li>
+</ul>
+<p>sha256 af717f6a8715f17b7430ebbf685fbe7ce496d98535609dc860cc7314a0fd7f05</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/sotto-releases/releases/download/v0.3.0/Sotto-0.3.0.dmg" length="33608866" type="application/octet-stream" sparkle:edSignature="JBJsXswHSDxLevBeduFce5lpMCaxRheQ7deamvvmGYy0AroZPFu7ObYQcqCIsU1JM9Li5kUW1VWB8PZI8hb8DQ=="/>
+    </item>
