@@ -5,6 +5,20 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/sotto-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Sotto 0.2.8</title>
+      <pubDate>Tue, 13 Oct 2026 15:21:35 +0000</pubDate>
+      <sparkle:version>0.2.8</sparkle:version>
+      <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Settings, Insights and the Dictionary always open in front of you, on the screen you're using.</li>
+</ul>
+<p>sha256 d5cad22a28cd69ca205142788156a33ba236136f53ccdee315c0a3aa787091b9</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/sotto-releases/releases/download/v0.2.8/Sotto-0.2.8.dmg" length="33373830" type="application/octet-stream" sparkle:edSignature="ePDxuTHjQvr2mbyVeq5JVhgw91mgpgBKY8hc9gho2NiIZhvkSURj8fOajThvLC0jsZ1WLjxlE1c4HblN2j0qCA=="/>
+    </item>
+    <item>
       <title>Sotto 0.2.7</title>
       <pubDate>Sun, 11 Oct 2026 04:27:41 +0000</pubDate>
       <sparkle:version>0.2.7</sparkle:version>
