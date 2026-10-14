@@ -1,0 +1,17 @@
+    <item>
+      <title>Sotto 0.3.3</title>
+      <pubDate>Wed, 14 Oct 2026 21:04:35 +0000</pubDate>
+      <sparkle:version>0.3.3</sparkle:version>
+      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Tidy Note: a note that was left as spoken can be tidied again from the reader. If a note wasn't tidied, the reason is saved with it, and writing the result won't overwrite edits you made in the meantime.</li>
+<li>Yesterday: the day stepper is now borderless, and ⌘[ and ⌘] move between days. Each app's recap has a "Show these in History" link.</li>
+<li>Yesterday now summarises every part of a long app's day, not just the start, and accepts more technical days instead of refusing them. If the day recap is refused, the app recaps are still shown.</li>
+<li>Notes: no stray "˜" when you stop with ⌥Space. If no audio arrives within 2 seconds of Resume, Sotto says so. If the mic dies mid-segment, the audio so far is kept.</li>
+</ul>
+<p>sha256 28c432403b5b46d674d41b174f53b8b6a3939ec333a9f7b0ee9b0778c15d0bc1</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/sotto-releases/releases/download/v0.3.3/Sotto-0.3.3.dmg" length="35189450" type="application/octet-stream" sparkle:edSignature="wUr4/T2nE+JhgCirV4moqbv3ajhoWc1m9tTv784J1lLl0cek93w09P3HwvKzNsNyBOe/BnwHxEX+DfVXqLz+CQ=="/>
+    </item>
