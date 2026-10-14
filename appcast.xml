@@ -5,6 +5,24 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/sotto-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Sotto 0.3.1</title>
+      <pubDate>Wed, 14 Oct 2026 15:02:53 +0000</pubDate>
+      <sparkle:version>0.3.1</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Voice notes: while holding ⌥Space, tap N to turn what you're saying into a note. Let go and Sotto keeps listening, hands-free, with Pause and Stop right on the pill; ⌥Space again saves it. Notes are tidied by the on-device model and kept as Markdown files on your Mac. Nothing is typed and nothing touches your clipboard.</li>
+<li>The orb takes notes: it looks down at a small notepad while you talk.</li>
+<li>A new Notes pane in Insights, and a Notes item in the menu, to read, copy and move notes to the Trash. A note is never lost if Sotto quits or your Mac sleeps mid-note.</li>
+<li>The orb ripples the pill whenever it leaves or returns, and pops up from, and drops back into, the bottom of the screen.</li>
+<li>The Note key can be changed in Settings › General.</li>
+</ul>
+<p>sha256 6b662c13b4b1ef05339acf10167a687589f7b491dcffe93d2822de130e62cd65</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/sotto-releases/releases/download/v0.3.1/Sotto-0.3.1.dmg" length="34417124" type="application/octet-stream" sparkle:edSignature="lhv4jWlCSaRJxPcpzlfsNPL12IZVYxo/Oo/YkhL19609BjvJ1x8bDUgiXGIap7/4XxF9JymNAP51ee6XNhaFAA=="/>
+    </item>
+    <item>
       <title>Sotto 0.3.0</title>
       <pubDate>Tue, 13 Oct 2026 23:21:28 +0000</pubDate>
       <sparkle:version>0.3.0</sparkle:version>
