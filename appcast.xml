@@ -5,6 +5,23 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/sotto-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Sotto 0.3.2</title>
+      <pubDate>Wed, 14 Oct 2026 16:07:05 +0000</pubDate>
+      <sparkle:version>0.3.2</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>The Insights window is now the Sotto window (Open Sotto in the menu). Its panes are in a new order: Yesterday, Notes, History, Stats (was Overview) and Voice Profile.</li>
+<li>Yesterday: a short summary of your last day of dictation, app by app, written on your Mac by the local model and never typed anywhere. Step back through earlier days with ‹ ›. The first time you open Sotto each day, it opens on Yesterday.</li>
+<li>Settings › History is now Settings › Data, and Reset Insights is now Reset Stats.</li>
+<li>The orb now always appears in the Sotto theme, even over a text field; Classic keeps the capsule.</li>
+</ul>
+<p>sha256 9c92d976bfe593163ca4c0fc790c8d28a03f4a3d9a7c4a0d6c4d6cf4bdc64ab3</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/sotto-releases/releases/download/v0.3.2/Sotto-0.3.2.dmg" length="34948204" type="application/octet-stream" sparkle:edSignature="XLfM7ETE5RbREGxjH1cA6KuNZH/PQcVY1h3j284GhprRuLK/2+AgJ3ASjBdQ5Mh7T7u/tVepuX+g52hfskd5CA=="/>
+    </item>
+    <item>
       <title>Sotto 0.3.1</title>
       <pubDate>Wed, 14 Oct 2026 15:02:53 +0000</pubDate>
       <sparkle:version>0.3.1</sparkle:version>
