@@ -5,6 +5,22 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/sotto-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Sotto 0.3.4</title>
+      <pubDate>Thu, 15 Oct 2026 04:03:52 +0000</pubDate>
+      <sparkle:version>0.3.4</sparkle:version>
+      <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>The Dictionary now lives in the Sotto window as its own pane (⌘6), with undo and search. Edits in progress are kept when you switch panes or quit.</li>
+<li>Developer mode: turn it on in Settings › About. It adds a Developer pane (⌘7) with Status (speech engine, cleanup model, app version, input device, theme, last press and permissions) and Switches (update badge style, and eval export, which only works while Developer mode is on).</li>
+<li>Logs no longer include error descriptions in plain text.</li>
+</ul>
+<p>sha256 3fa08fa92f39107dfec7ad21b61b748d9cd7d6a443ccde3c0751a6378ade4fcd</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/sotto-releases/releases/download/v0.3.4/Sotto-0.3.4.dmg" length="35285082" type="application/octet-stream" sparkle:edSignature="169FT1R2IjYjJ1kc4ALqgH9G5HPnfWCISRdMIW1OOohSUQFTUzWZxAwAqHk+01biGFRrTIRsKCzWIEV/n2BlBw=="/>
+    </item>
+    <item>
       <title>Sotto 0.3.3</title>
       <pubDate>Wed, 14 Oct 2026 21:04:35 +0000</pubDate>
       <sparkle:version>0.3.3</sparkle:version>
