@@ -1,0 +1,19 @@
+    <item>
+      <title>Sotto 0.3.5</title>
+      <pubDate>Fri, 16 Oct 2026 02:27:50 +0000</pubDate>
+      <sparkle:version>0.3.5</sparkle:version>
+      <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Yesterday has a new layout: a one-line headline, then Worked on, Still open, and By app. Open an app to see just its own lines from that day, with a link to those dictations in History. Every line comes from what you said; if Sotto can't write a summary it trusts, it shows the day's numbers instead.</li>
+<li>Spoken snippets: in the Dictionary pane, add a phrase like "my calendar link" and the text it stands for. Say the phrase in any dictation and the text lands exactly as you wrote it, line breaks included (as spaces in a terminal). Snippets are plain text files you can edit anywhere.</li>
+<li>Dictionary words now match even when a comma or dash lands in the middle ("fleet, view" becomes FleetView).</li>
+<li>The Yesterday page is never blank: it says when it's still reading, and if your History can't be read right now it says so, with Try Again.</li>
+<li>Only one copy of Sotto runs at a time, so two copies can't lock each other out of your History.</li>
+<li>Starting a dictation just after a note that saved nothing no longer closes the pill while you talk.</li>
+</ul>
+<p>sha256 05dfbbfb44f0fcfd9c4809ca85d208b3a77d39a81e24317bd31e7b0076d22333</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/sotto-releases/releases/download/v0.3.5/Sotto-0.3.5.dmg" length="36051097" type="application/octet-stream" sparkle:edSignature="GxC9x4q9iqSvAP8ZEzJE3PKbBU1XNX//0/JZYb5aLfvyUNmxYlM9/G1qPpU5uHGBG26BhTjWhGp1MHLW28M6DQ=="/>
+    </item>
