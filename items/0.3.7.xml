@@ -1,0 +1,20 @@
+    <item>
+      <title>Sotto 0.3.7</title>
+      <pubDate>Sat, 17 Oct 2026 23:27:51 +0000</pubDate>
+      <sparkle:version>0.3.7</sparkle:version>
+      <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Yesterday is a front page now: the day's name and numbers across the top, a strip showing when you talked, then what you worked on with Still open and Notes beside it, and By app below. The top of the page takes a light tint for the time of day, warm in the morning and cooler in the evening.</li>
+<li>The first time you open Yesterday each day, the heading lands first and the rest of the page is uncovered beneath it. Stepping between days doesn't replay it, and with Reduce Motion on it's a short fade.</li>
+<li>"Show in History" from Yesterday now puts the filter in History's search field, like "Slack · Tue, Oct 13". Clear it, press Esc, pick a range or click History in the sidebar to see all of History again.</li>
+<li>The count above History's list now matches the dictations listed; scratched ones are no longer counted.</li>
+<li>History no longer has a Hide scratched checkbox.</li>
+<li>In Notes, the selected note's highlight stays inside the list instead of running under the sidebar.</li>
+<li>The update badge is always a small dot.</li>
+</ul>
+<p>sha256 88c6f29c041d6ac61b45d1d38a0a0af43b6dcf02ffef6fee5804a4fdd970e3e9</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/sotto-releases/releases/download/v0.3.7/Sotto-0.3.7.dmg" length="36504581" type="application/octet-stream" sparkle:edSignature="3OHNv+x1rdFhg5gYQQrgj/JyPYcs9RSQUarkx2S51h32RWQbT25pfWaa4JvdRHNlv7xKqDhJzZ8aZlizIU0CDA=="/>
+    </item>
