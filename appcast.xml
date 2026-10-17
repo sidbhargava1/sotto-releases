@@ -5,6 +5,21 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/sotto-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Sotto 0.3.6</title>
+      <pubDate>Sat, 17 Oct 2026 02:34:35 +0000</pubDate>
+      <sparkle:version>0.3.6</sparkle:version>
+      <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Developer mode gains a live Log. Open Developer (⌘7) and the Log tab shows what Sotto is doing as it happens: search it (⌘F), filter by category, level and time, click a line to see its details, and copy lines for a bug report. It shows only what macOS keeps in Sotto's own log, never your words, and it only reads while the tab is open.</li>
+<li>Sotto's log categories now match the Log's filters (dictation, notes, orb, updates, yesterday, history, app). If you search the log yourself, the per-dictation timing line is under dictation now.</li>
+</ul>
+<p>sha256 9edf7e7d989fa353c12654fa613003c1d40bd05a033ebdcb0c5d7655ed8bb86b</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/sotto-releases/releases/download/v0.3.6/Sotto-0.3.6.dmg" length="36432340" type="application/octet-stream" sparkle:edSignature="f80ToZru2of6ghYco8uPb043kGx7x/GQCV6p+m64o62XnoRexUoc38NN67bT4N5Vn/liGljYn5RyCNHOAFMUBg=="/>
+    </item>
+    <item>
       <title>Sotto 0.3.5</title>
       <pubDate>Fri, 16 Oct 2026 02:27:50 +0000</pubDate>
       <sparkle:version>0.3.5</sparkle:version>
