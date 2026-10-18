@@ -5,6 +5,22 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/sotto-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Sotto 0.3.8</title>
+      <pubDate>Sun, 18 Oct 2026 06:17:54 +0000</pubDate>
+      <sparkle:version>0.3.8</sparkle:version>
+      <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Settings › Appearance has a new choice: Auto, Light or Dark. Auto follows macOS, as before; Light or Dark keeps every Sotto window, menu and alert in that look. The orb and live-words bubble keep following macOS, since they sit over other apps.</li>
+<li>When your words land by typing into a text field, a thin line sweeps under what was just added and drains into the cursor, so you can see where it went. If an app can't say where its lines are, a short glint plays at the cursor instead. In iTerm2 the line shows only when Sotto can confirm the text just before the cursor is what it typed; other terminals and pasted text get nothing. It's off with Reduce Motion, in the Classic theme, and when Show live words is off.</li>
+<li>Yesterday: stepping to another day while History is being updated no longer jumps back to the day you left, and two quick steps both count. A day you stepped away from before it loaded still plays its opening the first time you see it.</li>
+</ul>
+<p>sha256 28a7a0d23638869c337823853eed74bc575e0aa38fdca291d1865fc84089deee</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/sotto-releases/releases/download/v0.3.8/Sotto-0.3.8.dmg" length="36683112" type="application/octet-stream" sparkle:edSignature="PIfGCo0fY6H96oCmmq2yqVLdv3fdDNPD5QR8rjQko8HVA0m3Itp5RHIWXOyvfrSM3dT2LPxxCHAFkM4faYKvBg=="/>
+    </item>
+    <item>
       <title>Sotto 0.3.7</title>
       <pubDate>Sat, 17 Oct 2026 23:27:51 +0000</pubDate>
       <sparkle:version>0.3.7</sparkle:version>
