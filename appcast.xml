@@ -5,6 +5,25 @@
     <link>https://raw.githubusercontent.com/sidbhargava1/sotto-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Sotto 0.3.9</title>
+      <pubDate>Tue, 20 Oct 2026 03:05:02 +0000</pubDate>
+      <sparkle:version>0.3.9</sparkle:version>
+      <sparkle:shortVersionString>0.3.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Deleting History while Sotto is tidying up old dictations can no longer trip over it, and a Yesterday recap written at the moment you delete that day's text is thrown away instead of saved.</li>
+<li>If Sotto can't read History, Yesterday keeps trying and keeps its last recap, instead of saying there were no dictations.</li>
+<li>Going back to a day in Yesterday and then away again can no longer show the wrong day, and Writing… no longer gets stuck without a button.</li>
+<li>Quitting while a Voice Note is still being saved now always waits for it to finish.</li>
+<li>The line under newly typed text picks light or dark more reliably when Appearance is on Auto.</li>
+<li>Small fixes and tidying under the hood.</li>
+</ul>
+<p>sha256 35dd4c09ce666e5e3c0576c32555edf38b18507352530d3bd072f7831319dbf7</p>
+      ]]></description>
+      <enclosure url="https://github.com/sidbhargava1/sotto-releases/releases/download/v0.3.9/Sotto-0.3.9.dmg" length="36716273" type="application/octet-stream" sparkle:edSignature="LISJ8A8bnIqkzrk488aFe26pC1kitbmqR81musG4lJYP93NFNC8y+JFPp0ShHs59A3VQx9rLDxgKeSa/8yxlDg=="/>
+    </item>
+    <item>
       <title>Sotto 0.3.8</title>
       <pubDate>Sun, 18 Oct 2026 06:17:54 +0000</pubDate>
       <sparkle:version>0.3.8</sparkle:version>
